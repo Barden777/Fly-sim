@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Liquid Crystal Display';
+    src: url('Liquid-CrystalDisplay.eot');
+    src: local('Liquid Crystal Display'), local('Liquid-CrystalDisplay'),
+        url('Liquid-CrystalDisplay.eot?#iefix') format('embedded-opentype'),
+        url('Liquid-CrystalDisplay.woff2') format('woff2'),
+        url('Liquid-CrystalDisplay.woff') format('woff'),
+        url('Liquid-CrystalDisplay.ttf') format('truetype'),
+        url('Liquid-CrystalDisplay.svg#Liquid-CrystalDisplay') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
